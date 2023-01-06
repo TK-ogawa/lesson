@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+.bg-header {
+  background-color: rgb(139, 141, 141);
+}
+
 .nav-link {
   text-align: left;
 }
